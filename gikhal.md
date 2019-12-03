@@ -18,6 +18,42 @@ Inspiration
 >
 > Liang Xu, 2019-11-08
 
+The early days, 2002
+========================================================
+
+![](franjo.png)
+
+> Richel,
+>
+> I want you to set up a C++ programming course
+> that teaches how to program a GUI
+
+***
+
+![](delphi.gif)
+
+Why use GUIs?
+========================================================
+
+Or: why have I made dozens op programs with a GUI?
+
+***
+
+![](ProjectRichelBilderbeek.png)
+
+Why use GUIs?
+========================================================
+
+ * ...
+ * ...
+ * ...
+ * ...
+ * ...
+
+***
+
+![](PerfectElasticCollision.png)
+
 Why use GUIs?
 ========================================================
 
@@ -119,14 +155,6 @@ Characteristics:
 
 ========================================================
 
-![](ProjectCrossPoll0.png)
-
-========================================================
-
-![](ProjectCrossPoll3.png)
-
-========================================================
-
 ![](bd_2_4.png)
 
 ========================================================
@@ -153,6 +181,14 @@ Characteristics:
  * Looks as simple as possible
  * Not all input parameters visible
  * Plots are visible on screen
+
+========================================================
+
+![](ProjectCrossPoll0.png)
+
+========================================================
+
+![](ProjectCrossPoll3.png)
 
 ========================================================
 
@@ -217,6 +253,21 @@ Conclusion
 ## ~~GUIs can be used as a way to learn or to teach.~~
 
 ## Would GUIs be taught, scientists have better means to express themselves
+
+My idea
+========================================================
+
+## We should teach beginners how to program a GUI
+
+## This help help them when learning a new language
+
+## Franjo is IMHO right
+
+***
+
+![](franjo.png)
+
+Franjo Weissing, sprite from [https://github.com/richelbilderbeek/franjo_pong](https://github.com/richelbilderbeek/franjo_pong)
 
 Questions
 ========================================================
