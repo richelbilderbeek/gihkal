@@ -165,6 +165,10 @@ Characteristics:
 
 ![](elly_gui_4.png)
 
+========================================================
+
+![](daisieme.png)
+
 Why use GUIs?
 ========================================================
 
@@ -198,14 +202,6 @@ Characteristics:
 
 ![](ToolSimImmuneResponse_1_0.png)
 
-========================================================
-
-![](ProjectGtst_1_2.png)
-
-========================================================
-
-![](ProjectBrainWeaver_0_33.png)
-
 Why use GUIs?
 ========================================================
 
@@ -233,12 +229,71 @@ Characteristics:
 Why don't we use GUIs?
 ========================================================
 
- * It is not taught: 'No idea how'
+ * It is not taught anymore: 'No idea how'
+ * ...
+
+***
+
+![](franjo.png)
+
+Why don't we use GUIs?
+========================================================
+
+ * ~~It is not taught anymore: 'No idea how'~~
  * Misconceptions:
    * 'Too much work'
+   * ...
+
+***
+
+Type   |SLOC|%
+-------|----|---
+GUI    | 614|11
+Logic  |4921|89
+
+`daisieme` stats
+
+Why don't we use GUIs?
+========================================================
+
+ * ~~It is not taught anymore: 'No idea how'~~
+ * Misconceptions:
+   * ~~'Too much work'~~
    * 'GUIs are slower'
+   * ...
+
+***
+
+![](mvc.png)
+
+Why don't we use GUIs?
+========================================================
+
+ * ~~It is not taught anymore: 'No idea how'~~
+ * Misconceptions:
+   * ~~'Too much work'~~
+   * ~~'GUIs are slower'~~
    * 'You cannot run a GUI on the cluster'
+   * ...
+
+***
+
+![](one_does_not_simply.jpeg)
+
+
+Why don't we use GUIs?
+========================================================
+
+ * ~~It is not taught anymore: 'No idea how'~~
+ * Misconceptions:
+   * ~~'Too much work'~~
+   * ~~'GUIs are slower'~~
+   * ~~'You cannot run a GUI on the cluster'~~
    * 'Runs are too long for a GUI'
+
+***
+
+![](one_does_not_simply.jpeg)
 
 Conclusion
 ========================================================
@@ -252,14 +307,14 @@ Conclusion
 
 ## ~~GUIs can be used as a way to learn or to teach.~~
 
-## Would GUIs be taught, scientists have better means to express themselves
+## Would GUIs be taught, scientists, and especially beginners, have better means to express themselves
 
 My idea
 ========================================================
 
 ## We should teach beginners how to program a GUI
 
-## This help help them when learning a new language
+## This aids them when learning a new language
 
 ## Franjo is IMHO right
 
@@ -267,7 +322,8 @@ My idea
 
 ![](franjo.png)
 
-Franjo Weissing, sprite from [https://github.com/richelbilderbeek/franjo_pong](https://github.com/richelbilderbeek/franjo_pong)
+Franjo Weissing, sprite from [https://github.com/](https://github.com/)
+[richelbilderbeek/franjo_pong](richelbilderbeek/franjo_pong)
 
 Questions
 ========================================================
