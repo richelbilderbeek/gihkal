@@ -1,10 +1,10 @@
-GIKHAL
+GIHKAL
 ========================================================
 author: Richel J.C. Bilderbeek
 date: 2019-11-08
 autosize: true
 
-[https://github.com/richelbilderbeek/gikhal](https://github.com/richelbilderbeek/gikhal)
+[https://github.com/richelbilderbeek/gihkal](https://github.com/richelbilderbeek/gihkal)
 ![](CC-BY-NC-SA.png)
 
 Inspiration
