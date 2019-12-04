@@ -18,6 +18,12 @@ Inspiration
 >
 > Liang Xu, 2019-11-08
 
+```
+
+[Python logo here]
+
+```
+
 The early days, 2002
 ========================================================
 
@@ -52,12 +58,22 @@ Why use GUIs?
 
 ***
 
-![](PerfectElasticCollision.png)
+```
+
+C++ logo here
+
+```
+
+```
+
+R logo here
+
+```
 
 Why use GUIs?
 ========================================================
 
- * To explore a model
+ * Explore
  * ...
  * ...
  * ...
@@ -67,9 +83,9 @@ Why use GUIs?
 
 Characteristics:
 
- * Looks complex
- * Many input parameters visible
- * Plots are visible on screen
+ * Complex
+ * Many parameters
+ * Plots
 
 ========================================================
 
@@ -85,25 +101,45 @@ Characteristics:
 
 ========================================================
 
-![](KalmanFilterer_1_11.png)
+```
+
+
+Show van_doorn_and_weissing_2001
+
+
+```
+
+[https://github.com/richelbilderbeek/van_doorn_and_weissing_2001](https://github.com/richelbilderbeek/van_doorn_and_weissing_2001)
 
 ========================================================
 
-![](KalmanFiltererCalculation_2_0.png)
+```
+
+
+Show daisieme
+
+
+```
+
+[https://github.com/richelbilderbeek/daisieme](https://github.com/richelbilderbeek/daisieme)
 
 ========================================================
 
-![](MutualismBreakdownerSpatial.png)
+```
 
-========================================================
 
-![](korter_project.png)
+Show MutualismBreakdowner
+
+
+```
+
+[https://github.com/richelbilderbeek/MutualismBreakdowner](https://github.com/richelbilderbeek/MutualismBreakdowner)
 
 Why use GUIs?
 ========================================================
 
- * ~~To explore a model~~
- * To verify a model works correctly
+ * ~~Explore~~
+ * Verify
  * ...
  * ...
  * ...
@@ -112,9 +148,9 @@ Why use GUIs?
 
 Characteristics:
 
- * Looks complex
- * Can only run specific tests
- * Plots/texts visible on screen
+ * Complex
+ * Specific
+ * Plots
 
 ========================================================
 
@@ -132,16 +168,16 @@ Characteristics:
 
 ![](ToolTestTriangle_1_1.png)
 
-========================================================
+***
 
 ![](ToolTriangleMeshCreator_1_2.png)
 
 Why use GUIs?
 ========================================================
 
- * ~~To explore a model~~
- * ~~To verify a model works correctly~~
- * To gently introduce a fellow scientist to a model
+ * ~~Explore~~
+ * ~~Verify~~
+ * Introduce
  * ...
  * ...
 
@@ -149,9 +185,9 @@ Why use GUIs?
 
 Characteristics:
 
- * Looks complex
- * Many input parameters visible
- * Output used as input for another tool
+ * Complex
+ * Parameters
+ * Output -> input
 
 ========================================================
 
@@ -159,36 +195,30 @@ Characteristics:
 
 ========================================================
 
-![](lumier.png)
+```
 
-========================================================
+Show lumier
 
-![](elly_gui_4.png)
+```
 
-========================================================
-
-![](daisieme.png)
+[https://github.com/ropensci/lumier](https://github.com/ropensci/lumier)
 
 Why use GUIs?
 ========================================================
 
- * ~~To explore a model~~
- * ~~To verify a model works correctly~~
- * ~~To gently introduce a fellow scientist to a model~~
- * To be used by laymen
+ * ~~Explore~~
+ * ~~Verify~~
+ * ~~Introduce~~
+ * Laymen
  * ...
 
 ***
 
 Characteristics:
 
- * Looks as simple as possible
- * Not all input parameters visible
- * Plots are visible on screen
-
-========================================================
-
-![](ProjectCrossPoll0.png)
+ * Simple
+ * Few parameters
+ * Plots
 
 ========================================================
 
@@ -205,18 +235,18 @@ Characteristics:
 Why use GUIs?
 ========================================================
 
- * ~~To explore a model~~
- * ~~To verify a model works correctly~~
- * ~~To gently introduce a fellow scientist to a model~~
- * ~~To be used by laymen~~
- * To make learning a new programming language fun
+ * ~~Explore~~
+ * ~~Verify~~
+ * ~~Introduce~~
+ * ~~Laymen~~
+ * Fun
 
 ***
 
 Characteristics:
 
- * Looks fun
- * Output directly visible
+ * Fun
+ * Cool graphics
 
 ========================================================
 
@@ -226,20 +256,33 @@ Characteristics:
 
 ![](tresinformal_game.png)
 
+========================================================
+
+> Thanks for making programming fun again
+
+***
+
+```
+[picture of anyonymous person]
+```
+
+
 Why don't we use GUIs?
 ========================================================
 
- * It is not taught anymore: 'No idea how'
+ * Not taught
  * ...
 
 ***
 
-![](franjo.png)
+```
+[picture of Franjo frowning]
+```
 
 Why don't we use GUIs?
 ========================================================
 
- * ~~It is not taught anymore: 'No idea how'~~
+ * ~~Not taught~~
  * Misconceptions:
    * 'Too much work'
    * ...
@@ -256,10 +299,10 @@ Logic  |4921|89
 Why don't we use GUIs?
 ========================================================
 
- * ~~It is not taught anymore: 'No idea how'~~
+ * ~~Not taught~~
  * Misconceptions:
    * ~~'Too much work'~~
-   * 'GUIs are slower'
+   * 'Slower'
    * ...
 
 ***
@@ -269,11 +312,11 @@ Why don't we use GUIs?
 Why don't we use GUIs?
 ========================================================
 
- * ~~It is not taught anymore: 'No idea how'~~
+ * ~~Not taught~~
  * Misconceptions:
    * ~~'Too much work'~~
-   * ~~'GUIs are slower'~~
-   * 'You cannot run a GUI on the cluster'
+   * ~~'Slower'~~
+   * 'Cannot run on cluster'
    * ...
 
 ***
@@ -284,12 +327,12 @@ Why don't we use GUIs?
 Why don't we use GUIs?
 ========================================================
 
- * ~~It is not taught anymore: 'No idea how'~~
+ * ~~Not taught~~
  * Misconceptions:
    * ~~'Too much work'~~
-   * ~~'GUIs are slower'~~
-   * ~~'You cannot run a GUI on the cluster'~~
-   * 'Runs are too long for a GUI'
+   * ~~'Slower'~~
+   * ~~'Cannot run on cluster'~~
+   * 'Run takes too long'
 
 ***
 
@@ -307,14 +350,14 @@ Conclusion
 
 ## ~~GUIs can be used as a way to learn or to teach.~~
 
-## Would GUIs be taught, scientists, and especially beginners, have better means to express themselves
+## With GUIs, we can express ourselves in more ways
 
 My idea
 ========================================================
 
-## We should teach beginners how to program a GUI
+## We should teach GUIs
 
-## This aids them when learning a new language
+## It improves learning
 
 ## Franjo is IMHO right
 
